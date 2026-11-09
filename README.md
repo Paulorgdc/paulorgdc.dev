@@ -2,7 +2,7 @@
 
 Production-ready, highly responsive personal portfolio and developer hub engineered to showcase technical projects, engineering philosophy, and real-world software solutions.
 
-[![Category](https://img.shields.io/badge/CATEGORY-PERSONAL%20PROJECT-e0004d?style=for-the-badge)](#)[![License](https://img.shields.io/badge/LICENSE-PROPRIETARY-76b900?style=for-the-badge)](#)
+[![Category](https://img.shields.io/badge/CATEGORY-PERSONAL%20PROJECT-e0004d?style=for-the-badge)](#) [![License](https://img.shields.io/badge/LICENSE-PROPRIETARY-76b900?style=for-the-badge)](#)
 
 ---
 
