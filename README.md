@@ -39,3 +39,7 @@ Designed with a clean, modern aesthetic and performance-first architecture, the 
 Copyright © 2026 Paulo Roberto Griggi de Campos. All rights reserved.
 
 The source code, custom design assets, brand identity, and written content contained within this repository are proprietary. Unauthorized copying, distribution, modification, or public commercial reproduction of any part of this project is strictly prohibited.
+
+## Local development
+
+Run `npm ci`, then `npm run dev`. Build with `npm run build`; the package manifest defines the other commands. No environment variables are required by the documented setup.
