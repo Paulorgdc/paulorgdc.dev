@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio & Developer Showcase
+# 🌐 PAULORGDC.DEV: personal portfolio & developer showcase
 
 Production-ready, highly responsive personal portfolio and developer hub engineered to showcase technical projects, engineering philosophy, and real-world software solutions.
 
