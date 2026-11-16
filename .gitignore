@@ -21,6 +21,7 @@
 /build
 
 # misc
+.claude/settings.local.json
 .DS_Store
 *.pem
 
